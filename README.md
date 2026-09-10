@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Hayden 👋 (@haydendata14)
 
-<!--
-**haydendata14/haydendata14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack dev at Creative Lab in Toronto. I spend most of my time building web apps, lightweight internal tools, and tinkering with local-first setups.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building developer tools and dashboard utilities
+- 📦 Playing with SQLite query optimizations and embedded workflows
+- 📚 Reading up on web perf and browser runtime internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core Tech
+- **Languages:** TypeScript, JavaScript, SQL, HTML/CSS
+- **Backend:** Node.js, Express, SQLite, REST APIs
+- **Frontend:** React, Vite, Tailwind CSS
+- **Tools:** Git, Docker, pnpm, Linux
+
+#### Connect
+- 💼 [LinkedIn](https://linkedin.com/in/haydendata14)
+- ✉️ Email: `hayden@creativelab.to`
+- Always down to chat about developer tooling, clean APIs, or good side projects.
